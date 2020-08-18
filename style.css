@@ -85,3 +85,8 @@ h2::after {
 .field:hover {
   background-color: rgba(0, 0, 0, 0.1);
 }
+
+.field:focus {
+  background-color: #ffffff;
+  border: 2px solid rgba(30, 85, 250, 0.47);
+}
