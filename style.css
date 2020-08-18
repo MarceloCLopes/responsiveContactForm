@@ -104,4 +104,10 @@ h2::after {
   cursor: pointer;
   outline: none;
   border: none;
+  color: #ffffff;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #27ae60;
 }
