@@ -111,3 +111,13 @@ h2::after {
 .btn:hover {
   background-color: #27ae60;
 }
+
+@media screen and (max-width: 880px) {
+  .contact-box {
+    grid-template-columns: 1fr;
+  }
+
+  .left {
+    height: 200px;
+  }
+}
