@@ -90,3 +90,17 @@ h2::after {
   background-color: #ffffff;
   border: 2px solid rgba(30, 85, 250, 0.47);
 }
+
+.area {
+  min-height: 150px;
+}
+
+.btn {
+  width: 100%;
+  padding: 0.5rem 1rem;
+  font-size: 1.1rem;
+  background-color: #2ecc71;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
